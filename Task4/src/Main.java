@@ -61,7 +61,7 @@ class Findminimumvalidpath {
             specialverticesvalue.add(sc.nextInt());
         }
 
-        // Input source and destination
+        // Input source and destinations
         System.out.println("Enter source and destination input format (s d)");
         int sourcenodevalue = sc.nextInt();
         int destinationnodevalue = sc.nextInt();
